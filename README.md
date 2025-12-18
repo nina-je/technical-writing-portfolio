@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-his repository showcases a selection of technical writing samples, including API documentation, user guides, and reference content.
+This repository showcases a selection of technical writing samples, including API documentation, user guides, and reference content.
 
 All samples are written in Markdown and maintained using a docs-as-code workflow (Git, pull requests), emphasizing clarity, structure, and usability for technical audiences.
 
